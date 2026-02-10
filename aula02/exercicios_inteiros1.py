@@ -21,3 +21,5 @@ num2 = int(input('Insira um outro numero inteiro: '))
 print(f'A divisao dos dois numeros é: {num1 / num2}')
 
 # 5) Escreva um programa que calcule o quadrado de um número fornecido pelo usuário.
+num = int(input('Insira um numero inteiro: '))
+print(f'O quadrado desse numero é: {num ** 2}')
